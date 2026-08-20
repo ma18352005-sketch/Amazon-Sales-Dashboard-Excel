@@ -15,5 +15,5 @@ The goal of this project is to transform raw sales data into actionable visual i
 
 ## 💡 Key Insights
 - **Top Performing State/City:** California generated the highest sales ($458k).
-- **Sales Trends:** Sales peaked significantly toward November and December ($352k and $325k).
+- **Sales Trends:** Sales peaked significantly toward November and December ($552k and $325k).
 - **Product Categories:** Technology and Furniture form the majority of total revenue.
